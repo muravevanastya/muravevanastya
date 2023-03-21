@@ -3,7 +3,7 @@
 </div>
 
 <table align="right">
- <tr><td><a href="README.md">Russian</a></td></tr>
+ <tr><td><a href="README.md">Русский</a></td></tr>
 </table>
 
 <div align="center">
