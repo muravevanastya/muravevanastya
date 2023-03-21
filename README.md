@@ -1,6 +1,3 @@
-<table align="center">
- <tr><td><a href="README_en.md">English</a></td></tr>
-</table>
 
 ---
 
@@ -19,6 +16,10 @@
 </div>
 
 ---
+
+<table align="right">
+ <tr><td><a href="README_en.md">English</a></td></tr>
+</table>
 
 #### :bust_in_silhouette: Привет! Меня зовут Анастасия. Я начинающий фронтенд-разработчик.
 
