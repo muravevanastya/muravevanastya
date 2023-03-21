@@ -1,15 +1,18 @@
+<table align="center">
+ <tr><td><a href="README_en.md">English</a></td></tr>
+</table>
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="170"/>
 </div>
-
-<table align="right">
- <tr><td><a href="README_en.md">English</a></td></tr>
-</table>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nastaste/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/nastaste">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
