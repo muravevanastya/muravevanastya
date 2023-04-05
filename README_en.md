@@ -20,17 +20,17 @@
 
 #### :bust_in_silhouette: Hello! My name is Anastasia. I am a beginner frontend developer.
 
-:bulb: I want to engage in exciting intellectual work, in which there is space for creativity and self-development.
+:bulb: I want to engage in an exciting intellectual work, in which there is space for creativity and self-development.
 
-:round_pushpin: At the moment I:
-* study at Yandex Practicum;
-* participate in projects with like-minded people;
-* create my own projects to replenish the portfolio;
-* solve problems on Codewars;
-* learn how to write clean and readable code;
-* read additional literature to develop my horizons in the field of front-end development.
+:round_pushpin: Currently, I am:
+* studying at Yandex Practicum;
+* participating in projects with like-minded people;
+* creating my own projects to replenish the portfolio;
+* solving tasks on Codewars;
+* learning how to write clean and readable code;
+* reading additional literature to broaden my knowledge in the field of frontend development.
 
-:chart_with_upwards_trend: __My goal is not stability, but the constant development of my skills.__
+:chart_with_upwards_trend: __My goal is not stability, but constant development of my skills.__
 
 ---
 
