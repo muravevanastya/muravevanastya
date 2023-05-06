@@ -27,7 +27,6 @@
 * participating in projects with like-minded people;
 * creating my own projects to replenish the portfolio;
 * solving tasks on Codewars;
-* learning how to write clean and readable code;
 * reading additional literature to broaden my knowledge in the field of frontend development.
 
 :chart_with_upwards_trend: __My goal is not stability, but constant development of my skills.__
