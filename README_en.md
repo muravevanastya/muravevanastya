@@ -18,7 +18,7 @@
  <tr><td><a href="README.md">Русский</a></td></tr>
 </table>
 
-#### :bust_in_silhouette: Hello! My name is Anastasia. I am a beginner frontend developer.
+#### :bust_in_silhouette: Hello! My name is Anastasia. I am a frontend developer.
 
 :bulb: I want to engage in an exciting intellectual work, in which there is space for creativity and self-development.
 
