@@ -18,7 +18,7 @@
  <tr><td><a href="README.md">Русский</a></td></tr>
 </table>
 
-#### :bust_in_silhouette: Hello! My name is Anastasia. I am a front-end developer.
+#### :bust_in_silhouette: Hello! My name is Anastasia. I am a web developer.
 
 :bulb: I want to engage in an exciting intellectual work, in which there is space for creativity and self-development.
 
@@ -27,7 +27,7 @@
 * participating in projects with like-minded people;
 * creating my own projects to replenish the portfolio;
 * solving tasks on Codewars;
-* reading additional literature to broaden my knowledge in the field of frontend development.
+* reading additional literature to broaden my knowledge in the field of web development.
 
 :chart_with_upwards_trend: __My goal is not stability, but constant development of my skills.__
 
