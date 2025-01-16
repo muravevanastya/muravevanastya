@@ -23,10 +23,9 @@
 :bulb: I want to engage in an exciting intellectual work, in which there is space for creativity and self-development.
 
 :round_pushpin: Currently, I am:
-* studying at Yandex Practicum;
 * participating in projects with like-minded people;
 * creating my own projects to replenish the portfolio;
-* solving tasks on Codewars;
+* solving tasks on Leetcode;
 * reading additional literature to broaden my knowledge in the field of web development.
 
 :chart_with_upwards_trend: __My goal is not stability, but constant development of my skills.__
